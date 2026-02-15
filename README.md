@@ -15,16 +15,6 @@
 
 ###
 
-<h3 align="left">✍️   Random Dev Quote :</h3>
-
-###
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
-</div>
-
-###
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
